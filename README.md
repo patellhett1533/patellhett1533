@@ -12,7 +12,7 @@ If you have any queries, questions, or opportunities, please don't hesitate to c
 
 # Tech Stack
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,nodejs,expressjs,nestjs,vue,redux,mui,tailwind,sass,npm,vercel,python,django,php,mongodb,mysql,postgresql,flutter,dart,git,gitlab,github,aws,linux,docker,vscode,postman,bash,figma,wordpress,webflow&perline=18&theme=light" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,nodejs,expressjs,nestjs,vue,redux,mui,tailwind,sass,npm,vercel,python,django,php,mongodb,mysql,postgresql,flutter,dart,git,gitlab,github,aws,linux,docker,vscode,postman,bash,figma,wordpress,webflow&perline=10&theme=light" />
 </p>
 
 #
