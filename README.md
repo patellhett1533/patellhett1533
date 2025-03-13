@@ -2,7 +2,7 @@
 
 I am a Software Developer intrested in backend development and python.
 
-I am currently a Fullstack Developer at Rlogical, Ahmedabad. As I approach the culmination of my academic journey, I am eager to transition into a professional setting and contribute to a dynamic team. I have a passion for development, tutoring, animation, and learning from others' experiences in the field.
+As I approach the culmination of my academic journey, I am eager to transition into a professional setting and contribute to a dynamic team. I have a passion for development, tutoring, animation, and learning from others' experiences in the field.
 
 I specialize in creating various types of websites using the latest technologies like Nest.js, Next.js, TypeScript, Docker and MongoDB. I'm adept at customizing websites to suit specific needs and also want to collabrate with frontend/backend/python project.
 
